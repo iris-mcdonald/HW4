@@ -1,0 +1,16 @@
+﻿body * {
+     font-family: 'Comic Sans MS'
+}
+body {
+     background-color: darkseagreen
+}
+h2 {
+     background-color:cadetblue; color:darkgreen;
+}
+.groupitems
+{background-color:bisque
+}
+#top
+{
+border: 5px solid gray
+}
